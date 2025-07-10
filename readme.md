@@ -114,6 +114,9 @@ If you prefer to run components individually:
 - **PDF File**: `send.pdf`
 - Generated PDF containing the formatted text content
 
+### Example
+![Demonstration](example.png)
+
 ## Security Features
 
 ### Needham-Schroeder Protocol Implementation
